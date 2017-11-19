@@ -4,9 +4,9 @@
   "description": "stock market purchages using react",
   "main": "index.js",
   "scripts": {
-    "deploy": "npm run build && npm run git commmit && npm run git push",
-    "build":"webpack",
-    "start":"webpack-dev-server"
+    "deploy": "npm run build && npm run git-commmit && npm run git-push",
+    "build": "webpack",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
