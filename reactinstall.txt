@@ -1,0 +1,7 @@
+npm install -save react
+cat package.json
+npm install --save react-dom
+npm install --save-dev babel-core
+npm install --save-dev babel-loader babel-preset-react
+vi .babelrc
+npm install --save-dev webpack webpack-dev-server html-webpack-plugin
